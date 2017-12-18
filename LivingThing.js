@@ -1,4 +1,5 @@
 class LivingThing {
+  
   name;
   health;
 
@@ -10,7 +11,6 @@ class LivingThing {
   isAlive() {
     return (health > 0);
   }
-
 
   getHealth() {
     return health;
