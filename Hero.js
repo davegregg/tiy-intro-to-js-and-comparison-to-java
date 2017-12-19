@@ -1,8 +1,8 @@
-class Hero extends LivingThing {
+class HeroJS extends LivingThingJS {
 
   secretIdentity;
 
-  Hero(name, health, secretIdentity) {
+  constructor(name, health, secretIdentity) {
     super(name, health);
     this.secretIdentity = secretIdentity;
   }
