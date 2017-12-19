@@ -1,4 +1,4 @@
-class LivingThing {
+class LivingThingJS {
   
   name;
   health;

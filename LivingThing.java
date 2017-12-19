@@ -1,4 +1,4 @@
-public class LivingThing {
+public class LivingThingJava {
 
   protected String name;
   protected int health;
